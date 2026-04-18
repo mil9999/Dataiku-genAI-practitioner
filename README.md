@@ -132,5 +132,4 @@ Certificate Link: https://verify.skilljar.com/c/wdgir45wiezk
 
 ## 👤 Author
 Milan Thapa
-Linkedin: [
-](https://www.linkedin.com/in/milan-thapa-30324b332/)
+Linkedin: https://www.linkedin.com/in/milan-thapa-30324b332/
